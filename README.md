@@ -24,25 +24,6 @@ An extended version of the paper can be found here: https://arxiv.org/abs/2304.1
 
 ================================================================================
 
-## Cite our paper
-
-## BibTeX
-
-@inproceedings {291277,
-    author = {Tamer Abdelaziz and Aquinas Hobor},
-    title = {Smart Learning to Find Dumb Contracts},
-    booktitle = {32nd USENIX Security Symposium (USENIX Security 23)},
-    year = {2023},
-    isbn = {978-1-939133-37-3},
-    address = {Anaheim, CA},
-    pages = {1775--1792},
-    url = {https://www.usenix.org/conference/usenixsecurity23/presentation/abdelaziz},
-    publisher = {USENIX Association},
-    month = aug,
-}
-
-================================================================================
-
 DLVA is licensed under MIT License.
 
 For any questions, feel free to reach out to me via email at tamer@comp.nus.edu.sg
